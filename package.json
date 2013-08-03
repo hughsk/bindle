@@ -1,0 +1,34 @@
+{
+  "name": "bindle",
+  "version": "0.0.0",
+  "description": "A lightweight EventEmitter-like API for JavaScript classes, best suited for games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/bindle.git"
+  },
+  "keywords": [
+    "component",
+    "game",
+    "instance",
+    "class",
+    "prototype",
+    "mixin",
+    "event",
+    "trigger",
+    "game"
+  ],
+  "author": "Hugh Kennedy <http://hughskennedy.com> (hughskennedy@gmail.com)",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "395525d87a2778e91ee8255e7722c2a68896dc21",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tape": "~1.0.4",
+    "inherits": "~2.0.0"
+  }
+}
