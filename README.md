@@ -1,4 +1,4 @@
-# bindle [![experimental](https://rawgithub.com/hughsk/stability-badges/master/dist/experimental.svg)](http://github.com/hughsk/stability-badges) #
+# bindle [![experimental](https://rawgithub.com/hughsk/stability-badges/master/dist/experimental.svg)](http://github.com/hughsk/stability-badges) [![Build Status](https://travis-ci.org/hughsk/bindle.png?branch=master)](https://travis-ci.org/hughsk/bindle) #
 
 Bindle is an [EventEmitter](http://nodejs.org/api/events.html#events_class_events_eventemitter) for JavaScript *"classes"*. It's most
 suitable as the base of an entity/component system - not to be used directly,
